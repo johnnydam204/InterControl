@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=InterControlEsp32.SchDoc
+Record=SheetSymbol|SourceDocument=InterControlEsp32.SchDoc|Designator=LightDimmer|SchDesignator=LightDimmer|FileName=LightDimmer.SchDoc|SymbolType=Normal|RawFileName=LightDimmer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=InterControlEsp32.SchDoc|Designator=PowerSupply|SchDesignator=PowerSupply|FileName=PowerSupply.SchDoc|SymbolType=Normal|RawFileName=PowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=InterControlEsp32.SchDoc|Designator=RlyCtrl|SchDesignator=RlyCtrl|FileName=RlyCtrl.SchDoc|SymbolType=Normal|RawFileName=RlyCtrl.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=InterControlEsp32.SchDoc|Designator=Wifi-ESP32|SchDesignator=Wifi-ESP32|FileName=Wifi-ESP32.SchDoc|SymbolType=Normal|RawFileName=Wifi-ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
